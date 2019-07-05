@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 title: Llamabro
 tag: hello!
 
 markdown: kramdown
+=======
+theme: jekyll-theme-modernist
+>>>>>>> 204e8f8fc20289cd0546340debea7dc798e72cb4
