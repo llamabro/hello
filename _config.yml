@@ -3,7 +3,7 @@ tag: hello!
 
 markdown: kramdown
 
-baseurl: ""
+#baseurl: ""
+baseurl: "/hello"
 
-# theme: modernist
 theme: jekyll-theme-modernist
