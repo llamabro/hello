@@ -4,3 +4,5 @@ tag: hello!
 markdown: kramdown
 
 baseurl: "/hello"
+
+theme: jekyll-theme-modernist
