@@ -8,4 +8,6 @@ title: "New Hello Site"
 
 #### content ####
 
-{{ site.baseurl }}
+<a href="../works/">works link</a>
+
+<h4><a href="{{ site.baseurl }}/works/">liquid link</a></h4>
