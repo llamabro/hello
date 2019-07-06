@@ -3,8 +3,8 @@ tag: hello!
 
 markdown: kramdown
 
-baseurl: ""
-#baseurl: "/hello"
+#baseurl: ""
+baseurl: "/hello"
 
 
 # theme: modernist
