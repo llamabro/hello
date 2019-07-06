@@ -1,8 +1,8 @@
-title: Llamabro
+title: Llamabro Test Page
 tag: hello!
 
 markdown: kramdown
 
-baseurl: "/hello"
+baseurl: ""
 
-theme: jekyll-theme-modernist
+# theme: modernist
