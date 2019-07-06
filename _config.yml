@@ -6,3 +6,4 @@ markdown: kramdown
 baseurl: ""
 
 # theme: modernist
+theme: jekyll-theme-modernist
